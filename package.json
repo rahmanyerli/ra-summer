@@ -2,7 +2,7 @@
 	"name": "ra-summer",
 	"displayName": "Ra Summer",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
@@ -34,6 +34,9 @@
 		"ra-summer",
 		"ra summer theme",
 		"theme",
-		"ra"
+		"ra",
+		"vscode",
+		"vscode theme",
+		"light theme"
 	]
 }
